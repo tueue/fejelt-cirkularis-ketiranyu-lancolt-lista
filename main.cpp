@@ -1,10 +1,10 @@
 /* 
  * 
  * File         : main.cpp
- * Author       : tueue (Q32GOP)
- * Description  : ADAL hazifeladat: fejelet-korkorosen-ketszeresen lancolt lista.
+ * Author       : tueue
+ * Description  : Pannon ADAL hazifeladat: fejelet-korkorosen-ketszeresen lancolt lista.
  * Date         : 2012-11-02
- * 
+ *  
  */
 
 #include <cstdlib>
